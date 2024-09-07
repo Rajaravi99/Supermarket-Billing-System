@@ -2,6 +2,7 @@
 using namespace std;
 
 class shopping{
+
 	private:
 		int pcode;
 		float price;
